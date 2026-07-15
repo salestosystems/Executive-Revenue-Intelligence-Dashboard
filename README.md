@@ -1109,18 +1109,13 @@ Gemini AI reviews all dashboard KPIs and generates:
 # Workflow Screenshot
 
 **Executive Revenue Intelligence Dashboard**
-
-> *(Insert your Make.com workflow screenshot here)*
-
-```md
-<img width="1500" alt="Executive Revenue Intelligence Dashboard" src="YOUR_IMAGE_LINK_HERE">
-```
+<img width="1861" height="858" alt="Executive-Revenue-Intelligence-Dashboard-Make" src="https://github.com/user-attachments/assets/5a779e69-9b16-4276-b4d6-cbdd7d6b5ef7" />
 
 ---
 
 # Dashboard Screenshot
 
-> *(Insert your Power BI / Looker Studio dashboard here once completed.)*
+> *Updating Soon*
 
 ---
 
